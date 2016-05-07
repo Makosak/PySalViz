@@ -24,7 +24,7 @@ Revised Objectives for Spring 2016:
 
 3. Visualization Exploration: Interactive Maps and Plots (<a href="https://github.com/Makosak/PySalViz/blob/master/Interactive%20Visualization%20Comparison.ipynb">iPy Notebook</a>) <br> <b> Note: </b> Interactive graphics will not render in Github-hosted version of notebook. Please view iPy notebook on your machine with required kernel.
 
-3. Moran Plot graphing function (python file, <a href="https://github.com/Makosak/PySalViz/blob/master/CannedViews/Scatter%20Plots%20-%20Moran.ipynb">iPy Notebook</a>)
+3. Moran Plot graphing function (<a href="https://github.com/Makosak/PySalViz/blob/master/CannedViews/canned.py">python file</a>, <a href="https://github.com/Makosak/PySalViz/blob/master/CannedViews/Scatter%20Plots%20-%20Moran.ipynb">iPy Notebook</a>)
 
 
 ## Next Steps:
